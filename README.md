@@ -1,1 +1,1 @@
-# Sales-Dashboard-Project
+# Sales-Dashboard-Project Added Sales Performance Analysis project files, including the sales performance report and interactive Excel dashboard. This project focuses on analyzing sales data, tracking revenue, identifying sales trends, and presenting key business insights through data visualization.
